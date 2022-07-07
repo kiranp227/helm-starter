@@ -4,10 +4,10 @@
 # For full license text, see the LICENSE file in the repo root or https://opensource.org/licenses/BSD-3-Clause
 
 name: "starter"
-version: "1.0.0"
+version: "1.2.0"
 usage: "Fetch, list, and delete helm starters from github."
 description: |-
   This plugin fetches, lists, and deletes helm starters from github.
 ignoreFlags: false
 useTunnel: false
-command: "$HELM_PLUGIN_DIR/starter.sh"
+command: "echo hello"
